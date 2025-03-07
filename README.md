@@ -8,7 +8,9 @@ Corrige errores en tiempo real mientras escribes.
   ### Instalación  
 1. Clona este repositorio:  
   git clone https://github.com/nhasuhndas/AI-Text-Corrector.git
+
    cd AI-Text-Corrector
+
    Instala los paquetes requeridos:
    pip install -r requirements.txt
      Ejecuta el corrector:
