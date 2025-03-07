@@ -7,7 +7,6 @@ Corrige errores en tiempo real mientras escribes.
  Corrección en tiempo real  
   ### Instalación  
 1. Clona este repositorio:  
-   ```sh
   git clone https://github.com/nhasuhndas/AI-Text-Corrector.git
    cd AI-Text-Corrector
    Instala los paquetes requeridos:
