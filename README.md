@@ -11,11 +11,14 @@ Corrige errores en tiempo real mientras escribes.
 
    cd AI-Text-Corrector
 
-   Instala los paquetes requeridos:
-   pip install -r requirements.txt
+    Instala los paquetes requeridos:
+   
+    pip install -r requirements.txt
+   
      Ejecuta el corrector:
-   python corrector.py
-#### Tecnologías utilizadas
+   
+     python corrector.py
+  #### Tecnologías utilizadas
    Python 
    NLTK (Natural Language Toolkit)
    SpellChecker
