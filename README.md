@@ -12,7 +12,7 @@ El Corrector de Texto Automatizado es una aplicación que combina técnicas de p
 * Bibliotecas esenciales (instalables via pip):
 
   ```bash
-  pip install pyautogui pynput pyspellchecker nltk openai python-dotenv mysql-client
+  pip install pyautogui pynput pyspellchecker nltk openai python-dotenv
   ```
 
 ### Configuración de entorno
